@@ -1,6 +1,6 @@
 hi, i'm tanishq
 
-into cp and algorithms using c++/c
+into cp and algorithms using ds in c++/c
 
 creating projects in flutter
 
