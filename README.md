@@ -1,38 +1,47 @@
-# 🤖🚀 Greetings, Earthlings!
+<h1 align="center">
+   Tanishq Kumar Prasad 
+</h1>
 
-> _"Freedom is the right of all sentient beings." — Optimus Prime_
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG0xdDVhZnZoa3QzZ2wzaW1tZmNnNTA2YWFseGF2YXFrN2xyOGF2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/R9zXHWAHyTjnq/giphy.gif" width="300" alt="Optimus Prime" />
+</p>
 
-![Transformers](https://media.giphy.com/media/3o7TKy5vD9vRKfM2pS/giphy.gif)
-
----
-
-## 👋 Hi there! I’m Tanishq Kumar Prasad
-🚀 A passionate coder from India — on a mission to learn, build, and sometimes save the universe from Decepticons (a.k.a bugs).
-
-### 🛠 Tech Energon I Wield:
-- 🚀 **C / C++** (like Ironhide's cannons, powerful and precise)
-- 🐦 **Flutter** (for sleek interfaces, as shiny as Bumblebee)
-- 🔥 Always leveling up my skills, upgrading my spark!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7AF0C&center=true&vCenter=true&multiline=true&lines=Code.+Debug.+Repeat.+Till+All+Are+One." alt="typing animation">
+</p>
 
 ---
 
-## ⚡ Current Missions
-- 🤖 Building my coding AllSpark with new projects.
-- 📚 Exploring algorithms & data structures like a true Cybertronian strategist.
-- ✨ Open to collaborations — let’s roll out together!
+## 🚀 About Me
+- 🤖 Transformers fan — evolving like Optimus after every deploy.
+- 🔥 Chasing bugs harder than Bumblebee chases battles.
+- ✨ Crafting clean UIs & solid logic to keep things rolling.
 
 ---
 
-## 🌌 Connect with Me
-- 🛰️ [LinkedIn](https://www.linkedin.com/in/tanishq-kumar-prasad-315141316/)
-- ⚡ [GitHub](https://github.com/tanishqkumarprasad)
+## 🛠️ What I’m Building
+- 🚀 Leveling up DSA & competitive coding.
+- 📱 Creating magic with Flutter’s widgets.
+- 🤝 Open to collabs — let’s build something epic!
 
 ---
 
-## 🚀 Fun Fact
-> When I compile without errors on the first try, somewhere in the universe, Optimus smiles.
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanishq-kumar-prasad-315141316/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-![Decepticons](https://img.shields.io/badge/Decepticons-Not%20Welcome-purple?style=for-the-badge&logo=transformers&logoColor=white)
-![Autobots](https://img.shields.io/badge/Autobots-Assemble-red?style=for-the-badge&logo=transformers&logoColor=white)
+## 🐍 My GitHub Contributions Snake
+<p align="center">
+  <img src="https://github.com/tanishqkumarprasad/tanishqkumarprasad/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">
+  ⚡ <i>"Freedom is the right of all sentient beings." — Optimus Prime</i> ⚡
+</p>
