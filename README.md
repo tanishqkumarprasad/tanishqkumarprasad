@@ -2,7 +2,7 @@
 
 > _"Freedom is the right of all sentient beings." — Optimus Prime_
 
-![Transformers Banner](https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif)
+![Transformers](https://media.giphy.com/media/3o7TKy5vD9vRKfM2pS/giphy.gif)
 
 ---
 
@@ -24,7 +24,7 @@
 ---
 
 ## 🌌 Connect with Me
-- 🛰️ [LinkedIn](https://www.linkedin.com/in/tanishq-kumar-prasad-315141316/)  
+- 🛰️ [LinkedIn](https://www.linkedin.com/in/tanishq-kumar-prasad-315141316/)
 - ⚡ [GitHub](https://github.com/tanishqkumarprasad)
 
 ---
