@@ -1,15 +1,38 @@
-<h1 align="center">Hi 👋, I'm Tanishq Kumar Prasad</h1>
-<h3 align="center">Learner in C/C++ and flutter from India</h3>
+# 🤖🚀 Greetings, Earthlings!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishqkumarprasad&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqkumarprasad" /> </p>
+> _"Freedom is the right of all sentient beings." — Optimus Prime_
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishqkumarprasad" alt="tanishqkumarprasad" /></a> </p>
+![Transformers Banner](https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishqkumarprasad&show_icons=true&locale=en&layout=compact" alt="tanishqkumarprasad" /></p>
+## 👋 Hi there! I’m Tanishq Kumar Prasad
+🚀 A passionate coder from India — on a mission to learn, build, and sometimes save the universe from Decepticons (a.k.a bugs).
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishqkumarprasad&show_icons=true&locale=en" alt="tanishqkumarprasad" /></p>
+### 🛠 Tech Energon I Wield:
+- 🚀 **C / C++** (like Ironhide's cannons, powerful and precise)
+- 🐦 **Flutter** (for sleek interfaces, as shiny as Bumblebee)
+- 🔥 Always leveling up my skills, upgrading my spark!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqkumarprasad&" alt="tanishqkumarprasad" /></p>
+---
+
+## ⚡ Current Missions
+- 🤖 Building my coding AllSpark with new projects.
+- 📚 Exploring algorithms & data structures like a true Cybertronian strategist.
+- ✨ Open to collaborations — let’s roll out together!
+
+---
+
+## 🌌 Connect with Me
+- 🛰️ [LinkedIn](https://www.linkedin.com/in/tanishq-kumar-prasad-315141316/)  
+- ⚡ [GitHub](https://github.com/tanishqkumarprasad)
+
+---
+
+## 🚀 Fun Fact
+> When I compile without errors on the first try, somewhere in the universe, Optimus smiles.
+
+---
+
+![Decepticons](https://img.shields.io/badge/Decepticons-Not%20Welcome-purple?style=for-the-badge&logo=transformers&logoColor=white)
+![Autobots](https://img.shields.io/badge/Autobots-Assemble-red?style=for-the-badge&logo=transformers&logoColor=white)
